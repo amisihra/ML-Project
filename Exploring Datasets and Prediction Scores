@@ -1,8 +1,6 @@
 Data Science in Python Final Project
 
-This colab notebook follows my path in learning data analytics and machine learning
-using python and the popular California Housing dataset. 
+This colab notebook follows my path in learning data analytics and machine learning using python and the popular California Housing dataset. 
 
-I got experience in navigating python's data analytics library, pandas. There is work with histograms, 
-scatterplots, and adjusting the dataset. I moved onto making predictions with multiple regressors, 
-such as XGBoost, and focused on scoring metrics, where I used cross-validation and hypertuning. 
+I got experience in navigating python's data analytics library, pandas. There is work with histograms, scatterplots, and adjusting the dataset. 
+I moved onto making predictions with multiple regressors, such as XGBoost, and focused on scoring metrics, where I used cross-validation and hypertuning. 
